@@ -28,28 +28,10 @@ Miscellaneous open-source projects primarily focusing on the tiny
 
 ### Seeed Studio Wio LTE
 
-https://www.espruino.com/WioLTE
+See [Wio LTE README](./Seeed%20Wio%20LTE/README.md) for more details.
 
-# Arduino Library
-* Sketch
-* Include Library
-* Wio LTE Arduino Library
-* Use **SerialUSB** for for output (NOT Serial)
-
-
-#### Upload Firmware
-* Hold *Boot* button
-* Press and release *Reset* button
-* Release *Boot* button
-
-
-#### Run Firmware
-* Press and release *Reset* button
-* Monitor output on *Tera Term*
-
-
-
-
+>> Brief description and features
+> Link to board readme
 
 
 
